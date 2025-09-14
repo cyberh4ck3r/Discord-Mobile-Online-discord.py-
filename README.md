@@ -1,1 +1,4 @@
-# discord.py example that modifies the identify payload to make a bot appear as a mobile client (Mobile Online).
+# Discord.py — Mobile Online Example
+
+This is an educational example that demonstrates how to modify the <b>Identify payload</b> in <b>discord.py</b>  
+to make a bot appear as a <b>mobile client (Mobile Online)</b>.
